@@ -1,6 +1,6 @@
 # MOD: PeakTeamRace / 团队竞赛
 
-
+https://thunderstore.io/c/peak/p/XiaohaiMod/PeakTeamRace/
 
 ## Introduction / 简介
 A team-based racing mod that divides players into two teams, adds timers, and ranks based on team performance.  
