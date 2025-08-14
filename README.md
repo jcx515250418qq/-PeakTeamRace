@@ -91,6 +91,9 @@ Contact for feedback and suggestions:
 - **Discord**: [https://discord.gg/c3sGubau](https://discord.gg/c3sGubau) @Xiaohai
 
 ---
+##Credits
+ - use https://github.com/bbepis/NStrip
+ - https://thunderstore.io/c/peak/p/Coomzy/Compass_UI/
 
 **Join the race and may the best team win! / 加入竞赛，愿最佳团队获胜！**  
 🏔️ 🔥 ⏱️ 🔵🔴
